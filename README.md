@@ -1,8 +1,8 @@
-# CodSoft Internship
+# Project Repository
 
-This repository contains my work for the **CodSoft Internship**. The tasks will be organized under each task number, and this README provides an overview of the project structure and details.
+This repository contains some tasks and projects. Each task is organized under its respective number, with detailed explanations and implementations.
 
-## Internship Tasks
+## Practice Tasks
 
 ### Task 1: Personal Portfolio
 
